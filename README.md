@@ -2,7 +2,7 @@
 
 An interactive business intelligence dashboard for **BiteRush Colombo**, a fictional food delivery company created for teaching. It answers the five questions in the CEO's memo using four years of order data (2022 to 2025).
 
-**Live dashboard:** https://YOUR-USERNAME.github.io/biterush-dashboard/
+**Live dashboard:** https://rsandun.github.io/biterush-dashboard/
 
 ## The business question
 
